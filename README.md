@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/85360577/208932394-cef99fd5-a809-430e-a38a-6516d870bc68.png)
+![image](https://user-images.githubusercontent.com/85360577/208933999-4b5cdb03-641d-40cb-9e8e-e685cfd9cac7.png)
 
 <h1 align="center">Hi 👋, I'm Sandipan chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
